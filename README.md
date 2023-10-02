@@ -2,6 +2,8 @@
 
 A Java application that runs in both terminal and Java GUI using AWT and Swing objects.
 
+Main design pattern used was (M,V,C) Model, View, Controller for the structure all written in Java.
+
         0 - Interactive Mode : Interact with the app using the console only.
         1 - Graphic Mode     : Interact with the app using the integrated Java user Interface.
 
